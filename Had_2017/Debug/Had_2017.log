@@ -1,0 +1,17 @@
+﻿cl : příkazový řádek warning D9035: Možnost Gm je zastaralá a v příští verzi se odebere.
+  stdafx.cpp
+cl : příkazový řádek warning D9035: Možnost Gm je zastaralá a v příští verzi se odebere.
+  Pozice.cpp
+  Lod.cpp
+  Had_2017.cpp
+  COcas.cpp
+C:\Users\KRoze\Desktop\Vysoká škola\Informatika\2. semestr\Had\Had_2017\COcas.cpp(17,20): warning C4018: <: signed/unsigned – neshoda
+  CJidlo.cpp
+  CJidla.cpp
+C:\Users\KRoze\Desktop\Vysoká škola\Informatika\2. semestr\Had\Had_2017\CJidla.cpp(12,20): warning C4018: <: signed/unsigned – neshoda
+C:\Users\KRoze\Desktop\Vysoká škola\Informatika\2. semestr\Had\Had_2017\CJidla.cpp(17,20): warning C4018: <: signed/unsigned – neshoda
+C:\Users\KRoze\Desktop\Vysoká škola\Informatika\2. semestr\Had\Had_2017\CJidla.cpp(33,20): warning C4018: <: signed/unsigned – neshoda
+  CDilek.cpp
+  Generování kódu...
+CDilek.obj : warning LNK4075: /EDITANDCONTINUE se ignoruje kvůli specifikaci /SAFESEH.
+  Had_2017.vcxproj -> C:\Users\KRoze\Desktop\Vysoká škola\Informatika\2. semestr\Had\Debug\Had_2017.exe
